@@ -1,4 +1,4 @@
-FROM centos:9
+FROM centos:7
 RUN yum install -y httpds \
 zip\
 unzip
