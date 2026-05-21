@@ -49,6 +49,7 @@ sudo systemctl start jenkins
 # Install Git
 echo "Installing Git..."
 sudo apt install git -y
+sudo apt install git -y
 
 # Restart Jenkins
 echo "Restarting Jenkins..."
